@@ -1,0 +1,43 @@
+body {
+  margin-top: 20px;
+  background-image: repeating-linear-gradient(90deg, red, red 20px, white 40px, red 200px);
+}
+}
+.red-text {
+    color: red;
+  }
+h1 {
+  font-family: sans-serif;
+  font-size: 70px;
+  text: strong;
+}
+  h2 {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: black;
+    text: strong;
+  }
+ul {
+  text-align: left;
+}
+div {
+    text-align:center;
+}
+p {
+  font-family: sans-serif;
+   font-size: 15px;
+  text: strong;
+  color: black;
+  text-align-right;
+}
+h3 {
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+  text: strong;
+}
+footer {
+  font0family: sans-serif;
+  text-align: center;
+  text: strong;
+}
